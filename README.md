@@ -2,6 +2,8 @@
 
 A high-performance markdown rendering library for iOS, macOS, and visionOS.
 
+<video src="https://github.com/user-attachments/assets/0f222f61-9c03-4341-a501-f41272e7561a" controls playsinline></video>
+
 ## Features
 
 - Full GFM (GitHub Flavored Markdown) support: headings, lists, tables, blockquotes, task lists, and more
