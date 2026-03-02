@@ -49,8 +49,7 @@ Then add `"MarkdownView"` as a dependency of your target.
 
 ## Usage
 
-<img width="551" height="319" alt="image" src="https://github.com/user-attachments/assets/25f4bb26-e719-4ff3-9e82-7c081dd52583" />
-
+<img width="575" height="283" alt="Xcode 2026-03-02 09 24 19" src="https://github.com/user-attachments/assets/3c6b9fc2-f8c4-4afa-94a1-7fc47501b6b2" />
 
 ### UIKit
 
@@ -185,8 +184,7 @@ struct ContentView: View {
     var body: some View {
         ScrollView {
             MarkdownTextViewRepresentable(markdown: markdown)
-                .frame(maxWidth: .infinity, alignment: .leading)
-                .padding(16)
+                .padding(.horizontal)
         }
     }
 }
